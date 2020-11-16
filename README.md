@@ -1,7 +1,19 @@
 <body id="body" height="100%">
 <h1 style="text-align:center;">
-	Hi, longtime no see! 这个是一个导航页面
+	Hi, longtime no see! 
 </h1>
+<h2 style="text-align:center;">博客快速预览</h2>
+<p>
+	<br />
+</p>
+<script type="text/javascript">
+    document.getElementsByTagName('body')[0].style.height = window.innerHeight+'px';
+</script>
+<iframe name="Wp" id="Wp" src="https://infrost523312713.wordpress.com" onload="this.height=body.offsetHeight" width="100%" scrolling="true" frameborder="0"></iframe>
+
+<p>
+	<br />
+</p>
 <h2>
 	Blog ：
 </h2>	
@@ -18,18 +30,6 @@
 <h2>
 	<a href="http://kevinskyzeng.quickconnect.cn" target="_blank">DSM-click here to enter</a>
 </h2>
-<h2 style="text-align:center;">博客快速预览</h2>
-<p>
-	<br />
-</p>
-<script type="text/javascript">
-    document.getElementsByTagName('body')[0].style.height = window.innerHeight+'px';
-</script>
-<iframe name="Wp" id="Wp" src="https://infrost523312713.wordpress.com" onload="this.height=body.offsetHeight" width="100%" scrolling="true" frameborder="0"></iframe>
-
-<p>
-	<br />
-</p>
 
 
 </body>
