@@ -2,7 +2,8 @@
 <h1 style="text-align:center;">
 	Hi, longtime no see! 
 </h1>
-<h2 style="text-align:center;">博客快速预览</h2>
+<audio controls src="https://m701.music.126.net/20201116201313/fb72752b5cb147d671b1979c8c5a8f40/jdyyaac/565a/060c/010e/a011b1db511f2d4af8c76de72a6133b6.m4a" autoplay loop></audio>
+<h2 style="text-align:center;">Take a glance</h2>
 <p>
 	<br />
 </p>
