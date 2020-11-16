@@ -1,7 +1,7 @@
 <script type="text/javascript">
     document.getElementsByTagName('body')[0].style.height = window.innerHeight+'px';
 </script>
-<body id="body">
+<body id="body" height="100%">
 <h4 style="text-align:center;">
 <a href="https://infrost523312713.wordpress.com" target="_blank">博客使用框架内嵌，请耐心等待加载，如果显示异常请直接点此访问</a>
 	<br />
