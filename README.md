@@ -1,4 +1,14 @@
-<body id="body" height="100%">
+<script type="text/javascript">
+	function adjustIframe(){
+
+	var ifm= document.getElementById("bi_iframe");
+
+	ifm.height=document.documentElement.clientHeight;
+
+	ifm.width=document.documentElement.clientWidth;
+
+}
+</script>
 <h1 style="text-align:center;">
 	Hi, longtime no see! 
 </h1>
@@ -9,12 +19,13 @@
 <p>
 	<br />
 </p>
-<script type="text/javascript">
-    document.getElementsByTagName('body')[0].style.height = window.innerHeight+'px';
-</script>
-<iframe name="Wp" id="Wp" src="https://infrost523312713.wordpress.com" onload="this.height=body.offsetHeight" width="100%" scrolling="true" frameborder="0"></iframe>
 
 <p>
+<iframe id="bi_iframe" src="https://infrost523312713.wordpress.com" onload="adjustIframe();"
+
+frameborder="0" scrolling="auto">
+
+</iframe>
 	<br />
 </p>
 <h2>
@@ -34,5 +45,3 @@
 	<a href="http://kevinskyzeng.quickconnect.cn" target="_blank">DSM-click here to enter</a>
 </h2>
 
-
-</body>
